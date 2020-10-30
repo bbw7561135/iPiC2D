@@ -20,9 +20,7 @@
 
 # Implicit PiC method in 2D
 
-## Table of contents
-
-* Electrostatic charge conserving implicit [PiC](https://github.com/cheshirepezz/iPiC2D/tree/master/es)
+### Electrostatic charge conserving implicit [PiC](https://github.com/cheshirepezz/iPiC2D/tree/master/es)
 
 ## Technologies
 Project is created with:
